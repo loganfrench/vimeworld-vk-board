@@ -20,3 +20,6 @@
 - %guild_officers% - список офицеров (через \n)
 - %guild_members% - список участников (через \n)
 - %dateUpdate% - дата обновления (в формате: `dd.MM.yyyy HH:mm:ss`)
+
+Скриншоты:
+1. ![Скриншот 1](/screen_1.jpg)

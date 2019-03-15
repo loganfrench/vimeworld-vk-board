@@ -1,0 +1,14 @@
+Привет, друг!
+Мы гильдия %guildName%!
+Наш уровень %guildLevel%!
+Наш состав: 
+Лидеры:
+%guild_leaders%
+
+Офицеры:
+%guild_officers%
+
+Участники:
+%guild_members%
+
+Вступай к нам!
